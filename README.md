@@ -3,9 +3,9 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Salman-080/Salman-080/main/images/banner22.jpg "San Juan Mountains")
 
 ## Current Stats
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Salman-080&theme=neon)](https://git.io/streak-stats)
-
+</div>
 
 ## Technologies I am using
 
