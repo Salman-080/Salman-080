@@ -1,6 +1,6 @@
 ### This is Md. Salman Siddique 👋
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Salman-080/Salman-080/main/images/gitBanner.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Salman-080/Salman-080/main/images/banner22.jpg "San Juan Mountains")
 
 ## Current Stats
 
@@ -15,13 +15,13 @@
 
 
 
-Current Overview:
+## Current Overview:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning mongoose
+- 🌱 I’m currently learning mongoose, NextJs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me anything about ...
 - 📫 Reach me through
 
 - 😄 Pronouns: ...
