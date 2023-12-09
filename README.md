@@ -8,6 +8,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Salman-080&theme=neon)](https://git.io/streak-stats)
 
 
+## About Me
+
+Currently, I am learning mongoose, nextJs. I am working With Javascript, MongoDB, React, NodeJS, ExpressJS.
+
 ## Technologies I am using
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,express,nodejs,tailwindcss,)](https://skillicons.dev)
