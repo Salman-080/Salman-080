@@ -1,7 +1,7 @@
-### Hi there 👋
+### This is Md. Salman Siddique 👋
 
-<!--
-**Salman-080/Salman-080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Salman-080/Salman-080/main/images/gitBanner.jpg "San Juan Mountains")
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
